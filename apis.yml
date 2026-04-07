@@ -1,7 +1,11 @@
 aid: kenvue
-url: https://raw.githubusercontent.com/api-evangelist/kenvue/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/kenvue/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.kenvue.com
+description: >-
+  Everyday care is a powerful catalyst in making you feel better, inside and out.
+  Learn about the iconic brands, products, people, and history that make up Kenvue.
