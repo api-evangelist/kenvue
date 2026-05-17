@@ -6,7 +6,7 @@ description: >-
   is a powerful catalyst in making you feel better, inside and out. Kenvue's
   iconic brands include Tylenol, Neutrogena, Listerine, Aveeno, Band-Aid, and
   Johnson's.
-type: Company
+kind: company
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - Consumer Health
